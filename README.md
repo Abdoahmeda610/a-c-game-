@@ -1,14 +1,14 @@
  # SAVE the world game
 
 ![Game Screenshot][(Screenshot_٢٠٢٣٠٦٠٤-٠٠٠٦٢٢_Coding C++.jpg)](https://i.postimg.cc/gJ8q5H90/Screenshot-Coding-C.jpg)
-Screenshot_٢٠٢٣٠٦٠٤-٠٠٠٦٢٢_Coding C++.jpg
+
 # My First C++ Game: Citizen Savior
 
 ## Introduction
 Welcome to my first game developed using C++! In this game, you will take control of the protagonist (X) and face off against two enemies (tow #). These enemies have stolen the citizens (×) of your world, and it's up to you to rescue them. Your objective is to guide the citizens to safety in a designated area called the "wait house" located at the top of the game.
 
 ## Rules
-You are allowed to pick up one citizen (×) at a time, and you must pick them up in a specific order. However, be careful as the enemies will try to attack you along the way. If they catch you, you will be returned to your starting position, and any citizens you were carrying will be left behind.
+You are allowed to pick up one citizen (×) at a time, and you must pick them up in a specific order. However, be careful as the enem Screenshot_٢٠٢٣٠٦٠٤-٠٠٠٦٢٢_Coding ies will try to attack you along the way. If they catch you, you will be returned to your starting position, and any citizens you were carrying will be left behind.
 
 ## How to Play - Keyboard Controls
 - Use 'd' to move right 👉
