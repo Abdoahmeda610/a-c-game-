@@ -21,7 +21,7 @@
 using namespace std;
 
 const int sizex = 30 ; // 🚫 Don't make it bigger than 45
-const int sizey = 15; //if game is big so much or big so much on screen change it😅
+const int sizey = 15; //if game is big so much or big so much on screen change it
 
  int xh = sizex/8  ;
  int yh = 1  ;
@@ -146,10 +146,10 @@ void Input() {
     if (_kbhit()) {
         char key = _getch();
         switch (key) {
-            case 'd':                //   LIFT 👉
+            case 'd':                //   RIGHT 👉
                 xh+=2;  r1 = 1 ;  
                       break;
-            case 'a':                //   RIGHT👈
+            case 'a':                //   LEFT 👈
                 xh-=2;  r1 = 2 ;
                       break;
             case 'w':                //   UP☝️
@@ -248,7 +248,7 @@ void Citizens(int &x , int &y   , int &r3  ){
   
    r3++;
 }   
- else if(xh == x && yh == y-2|| xh == x && yh == y+2 || xh == x+2 && yh == y ||xh == x-2 && yh == y || xh == x && yh == y  || xh == x && yh == y-1|| xh == x && yh == y+1 || xh == x+1||xh == x-1 && yh == y ){ 
+ else if(xh == x && yh == y-2|| xh == x && yh == y+2 || xh == x+2 && yh == y ||xh == x-2 && yh == y || xh == x && yh == y  || xh == x && yh == y-1|| xh == x && yh == y+1 || xh == x+1 && yh == y ||xh == x-1 && yh == y ){ 
     x = xh ; y = yh ;
 
   }   
