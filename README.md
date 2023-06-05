@@ -1,6 +1,6 @@
-# SAVE the world game 
+ # SAVE the world game
 
-
+![Game Screenshot](relative/path/to/images/game_screenshot.jpg)
 
 # My First C++ Game: Citizen Savior
 
