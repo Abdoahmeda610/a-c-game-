@@ -1,6 +1,7 @@
  # SAVE the world game
 
-![Game Screenshot][(Screenshot_٢٠٢٣٠٦٠٤-٠٠٠٦٢٢_Coding C++.jpg)](https://i.postimg.cc/gJ8q5H90/Screenshot-Coding-C.jpg)
+![Screenshot_٢٠٢٣٠٦٠٤-٠٠٠٦٢٢_Coding C++](https://github.com/Abdoahmeda610/a-c-game-/assets/111024915/f4504d94-402a-41fb-a383-2215d190360c)
+
 
 ## My First C++ Game: Citizen Savior
 
