@@ -20,7 +20,7 @@
 using namespace std;
 
 const int sizex = 35 ; // 🚫 Don't make it bigger than 45
-const int sizey = 15; //if game is big so much or big so much on screen change it
+const int sizey = 19; //if game is big so much or big so much on screen change it
 
  int xh = sizex/8  ;
  int yh = 1  ;
