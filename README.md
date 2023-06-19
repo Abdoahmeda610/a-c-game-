@@ -15,6 +15,6 @@ You are allowed to pick up one citizen '(×)' at a time, and you must pick them 
 - Use 'a' to move left 👈
 - Use 'w' to move up ☝️
 - Use 's' to move down 👇
-- Press 'x' to exit the game 🛑
+-` Press 'x' to exit the game 🛑`
 
 Thank you for playing my first game! Enjoy the challenge of saving the citizens and defeating the enemies.
