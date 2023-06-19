@@ -11,10 +11,10 @@ Welcome to my first game developed using C++! In this game, you will take contro
 You are allowed to pick up one citizen '(×)' at a time, and you must pick them up in a specific order. However, be careful as the enemies(# #) will try to attack you along the way. If they catch you, you will be returned to your starting position, and any citizens you were carrying will be left behind.
 
 ## How to Play - Keyboard Controls
-- Use 'd' to move right 👉
-- Use 'a' to move left 👈
-- Use 'w' to move up ☝️
-- Use 's' to move down 👇
--` Press 'x' to exit the game 🛑`
+- Use ` d ` to move right 👉
+- Use ` a ` to move left 👈
+- Use ` w ` to move up ☝️
+- Use ` s ` to move down 👇
+- Press ` x ` to exit the game 🛑
 
 Thank you for playing my first game! Enjoy the challenge of saving the citizens and defeating the enemies.
