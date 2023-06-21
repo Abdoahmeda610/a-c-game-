@@ -19,5 +19,5 @@ You are allowed to pick up one citizen '(×)' at a time, and you must pick them 
 
 Thank you for playing my first game! Enjoy the challenge of saving the citizens and defeating the enemies.
 ## How code work 
-# The Draw function 
+### The Draw function 
 https://github.com/Abdoahmeda610/a-c-game-/assets/111024915/a52676a9-07ce-4eeb-8e5b-ec714bc719f9
