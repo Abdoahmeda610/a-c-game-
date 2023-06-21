@@ -1,5 +1,5 @@
  # SAVE the world game
-
+<img src="output-agent/moving-average-agent.png" width="70%" align="">
 ![Screenshot_٢٠٢٣٠٦٠٤-٠٠٠٦٢٢_Coding C++](https://github.com/Abdoahmeda610/a-c-game-/assets/111024915/f4504d94-402a-41fb-a383-2215d190360c)
 
 ### My First C++ Game: Citizen Savior
